@@ -1,1 +1,1 @@
-# automation-testing
+# Link to website: [SauceDemo](https://www.saucedemo.com/)
